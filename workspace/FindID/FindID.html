@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>회원가입</title>
+  <link rel="stylesheet" href="./findID.css">
+</head>
+<body>
+  <main>
+    <div class="wrapper">
+      <form name="register_form" id="register_form">
+        <div class="form_header">
+          <h2 id="header_msg">아이디 찾기</h2>
+          <p id="sub_msg">본인인증 정보를 입력해주세요. 휴대폰 번호로 아이디를 보내드립니다.</p>
+          <button id="button1" type="button" onclick="onRegister()">
+            <div class="button_in_text">아이디</div>
+
+          </button>
+          <button id="button2" type="button" onclick="onRegister()">
+            <div class="button_in_text">비밀번호</div>
+          </button>
+
+          <div id="box1">
+          <div class="inputwrapper">
+            <label for="username">
+              <div class="star">이름</div> 
+            </label>
+            <input id="username" name="username" type="text"/>
+            <p class="err-msg" id="username_err_msg">이름을 입력해주세요.</p>
+          </div>
+            <div class="inputwrapper">
+              <label for="ph">
+                <div class="star">휴대폰 번호</div> 
+              </label>
+              <input id="ph" name="ph" type="ph"/>
+              <p class="err-msg" id="ph_err_msg">휴대폰번호를 입력해주세요.</p>
+            </div>
+            <button id="button" type="button" onclick="onRegister()">아이디 받기</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </main>
+  <script src="./findID.js"></script>
+
+</body>
+</html>
