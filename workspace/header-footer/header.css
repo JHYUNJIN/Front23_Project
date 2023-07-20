@@ -1,0 +1,277 @@
+.css-1jwqh4i {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 66px;
+    z-index: 20;
+    background-color: #ffffff;
+    border-bottom: none;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    left: 0;
+    right: 0;
+}
+
+.css-1stxlbr {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.css-9ikcnu {
+    cursor: pointer;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    width: 85px;
+    height: 26px;
+}
+
+.css-4f6urn {
+    margin: 0px 40px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    font-size: 14px;
+}
+
+.css-1sbzer9 {
+    width: 100%;
+    border: 1px solid rgb(48, 52, 65);
+    transition: background-color 0.2s ease 0s, border-color 0.2s ease 0s;
+    display: inline-flex;
+    flex-direction: row;
+    overflow: hidden;
+    cursor: text;
+    background-color: rgb(255, 255, 255);
+    color: rgb(48, 52, 65);
+    height: 42px;
+    padding: 0px 16px;
+    min-width: 64px;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+.css-1sbzer9:hover {
+    border-color: rgb(154, 155, 167);
+}
+
+.css-1sbzer9:hover {
+    background-color: rgb(242, 243, 247);
+    border-color: rgb(48, 52, 65);
+}
+
+button, input, optgroup, select, textarea {
+    /* font-family: inherit; */
+    font-size: 100%;
+    line-height: normal;
+    margin: 0;
+}
+
+button, input {
+    overflow: visible;
+}
+
+.css-dka9py {
+    outline: none;
+    flex: 1 1 0%;
+    width: 100%;
+    background-image: none;
+    box-sizing: border-box;
+    font-size: inherit;
+    border: none;
+    font-weight: inherit;
+    background-color: transparent;
+    text-align: left;
+    color: inherit;
+}
+
+.css-kknodv {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.css-1sbzer9 .suffix-wrapper {
+    padding-left: 7px;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    flex-basis: auto;
+}
+
+.css-aah4od {
+    display: inline-block;
+    color: inherit;
+    font-style: normal;
+    line-height: 0;
+    text-align: center;
+    text-transform: none;
+    vertical-align: -0.125em;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.css-7kp13n {
+    display: inline-block;
+}
+
+.css-1sbzer9 svg {
+    width: 20px;
+    height: 20px;
+}
+
+.css-biwkez {
+    outline: none;
+    box-sizing: border-box;
+    border-radius: 4px;
+    line-height: 1;
+    font-weight: 500;
+    transition: background-color 0.3s ease 0s, border-color 0.3s ease 0s;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    user-select: none;
+    max-width: 100%;
+    font-size: 14px;
+    color: rgb(48, 52, 65);
+    white-space: nowrap;
+    padding: 0px;
+    cursor: pointer;
+    min-width: inherit;
+    height: inherit;
+    background-color: transparent;
+    border: none;
+    margin-right: 24px;
+}
+
+.css-1utx3w7 {
+    display: flex;
+    gap: 4px;
+}
+
+.css-1gdmpac {
+    margin: 0px;
+    color: rgb(33, 34, 36);
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.429;
+    letter-spacing: 0px;
+}
+
+.css-16u5n7z {
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    font-weight: 500;
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 11px;
+    color: rgb(75, 148, 250);
+    background-color: rgb(240, 243, 247);
+}
+
+.css-u4p24i {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+button, input {
+    overflow: visible;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button, [type='button'], [type='reset'], [type='submit'] {
+    -webkit-appearance: button;
+}
+
+.css-biwkez {
+    outline: none;
+    box-sizing: border-box;
+    border-radius: 4px;
+    line-height: 1;
+    font-weight: 500;
+    transition: background-color 0.3s ease 0s, border-color 0.3s ease 0s;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    user-select: none;
+    max-width: 100%;
+    font-size: 14px;
+    color: rgb(48, 52, 65);
+    white-space: nowrap;
+    padding: 0px;
+    cursor: pointer;
+    min-width: inherit;
+    height: inherit;
+    background-color: transparent;
+    border: none;
+    margin-right: 24px;
+}
+
+
+
+/* 로그인 css */
+.css-15km44g {
+    outline: none;
+    border-width: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 4px;
+    line-height: 1;
+    font-weight: 500;
+    transition: background-color 0.3s ease 0s, border-color 0.3s ease 0s;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    user-select: none;
+    white-space: nowrap;
+    max-width: 100%;
+    height: 36px;
+    font-size: 14px;
+    padding: 0px 16px;
+    min-width: 64px;
+    background-color: rgb(255, 212, 0);
+    border-color: rgb(255, 212, 0);
+    color: rgb(48, 52, 65);
+}
+
+
+/* 로그인 css 끝 */
